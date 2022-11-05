@@ -10,6 +10,6 @@ Arrow Keys - Move left and right
 For Windows, the os module uses os.system('cls'), instead of os.system('clear')
 
 Code must be run with sudo, for unix, in order for arrow keys to be detected
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/87473241/200122206-ca3a1248-57b6-4861-8c92-e456ee7b2f0c.png">
 
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/87473241/200122206-ca3a1248-57b6-4861-8c92-e456ee7b2f0c.png">
 #### Enjoy! - Ky-An Tran
