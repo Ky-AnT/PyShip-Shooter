@@ -6,5 +6,8 @@ Space - Shoot
 Arrow Keys - Move left and right
 ### Installing Modules:
     python3 -m pip install -r requirements.txt
-#### Note: For Windows, the os module uses os.system('cls'), instead of os.system('clear')
+#### Notes: 
+For Windows, the os module uses os.system('cls'), instead of os.system('clear')
+
+Code must be run with sudo, for unix
 #### Enjoy! - Ky-An Tran
